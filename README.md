@@ -3,5 +3,4 @@
   <h3>I am a Game Developer and Web Developer</h3>
 </div>
 <img srr="https://github.com/cmaennche/cmaennche/blob/main/banner.png?raw=true">
-
-**Skills:** C#, Unity, PHP, JS, HTML, CSS, Java, WordPress
+<b>Skills:</b> C#, Unity, PHP, JS, HTML, CSS, Java, WordPress
